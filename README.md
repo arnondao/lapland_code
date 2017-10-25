@@ -1,1 +1,1 @@
-"# lapland_code" 
+This is for Craft code.
