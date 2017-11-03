@@ -1,1 +1,1 @@
-This is for Craft code.
+This is for Craft CMS.
